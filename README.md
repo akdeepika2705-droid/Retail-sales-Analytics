@@ -1,2 +1,28 @@
-# Retail-sales-Analytics
-Retail Sales Performance Dashboard An interactive Excel dashboard analyzing retail sales data from 2015–2018. Track sales trends, product category performance, regional market share, and shipping modes. Features dynamic slicers for filtering by year, region, and product category to enable granular, actionable insights for business decision-making.
+Workforce Insights Dashboard (Power BI)
+
+📊 Project Overview
+
+This project analyzes workforce data to identify patterns in employee attrition, performance, compensation, and tenure.
+
+🛠 Tools Used
+
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+
+📈 Key Insights
+
+- Higher attrition observed in entry-level roles
+- Promotion stagnation impacts job involvement
+- Compensation and stock options vary significantly by education level
+
+📂 Files Included
+
+- Workforce_Insights_Dashboard.pbix
+- Dashboard screenshots
+- Dataset sourced from Kaggle
+
+📌 Dataset
+
+HR Analytics: Job Change of Data Scientists (Kaggle)
